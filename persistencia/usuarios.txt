@@ -1,0 +1,41 @@
+administrador
+correo: jonathan@admin.com
+pass: 12345
+
+correo: admin@admin.com
+pass: admin
+_________________________________
+Auxiliar
+correo: carlos@auxiliar.com
+pass: carlos
+
+correo: liliana@auxiliar.com
+pass: liliana
+_________________________________
+
+Cliente
+correo: Paola@cliente.com
+pass: 1234
+
+correo: Andres@cliente.com
+pass: 1234
+_________________________________
+Veterinario
+correo: felipe@veterinario.com
+pass: 123
+
+correo: steven@veterinario.com
+pass: 1234
+
+correo: juan@veterinario.com
+pass: 1234
+
+correo: andrea@veterinario.com
+pass: 1234
+
+juliana@veterinario.com
+
+correo: juliana@veterinario.com
+pass: 1234
+
+_________________________________
